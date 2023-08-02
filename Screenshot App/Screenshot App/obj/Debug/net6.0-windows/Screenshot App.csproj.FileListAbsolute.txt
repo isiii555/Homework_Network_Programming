@@ -1,0 +1,45 @@
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\bin\Debug\net6.0-windows\Screenshot App.exe
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\bin\Debug\net6.0-windows\Screenshot App.deps.json
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\bin\Debug\net6.0-windows\Screenshot App.runtimeconfig.json
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\bin\Debug\net6.0-windows\Screenshot App.dll
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\bin\Debug\net6.0-windows\Screenshot App.pdb
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\bin\Debug\net6.0-windows\CommonServiceLocator.dll
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.Extras.dll
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.Platform.dll
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\bin\Debug\net6.0-windows\GalaSoft.MvvmLight.dll
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\bin\Debug\net6.0-windows\System.Windows.Interactivity.dll
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\obj\Debug\net6.0-windows\Screenshot App.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\obj\Debug\net6.0-windows\Screenshot App_MarkupCompile.cache
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\obj\Debug\net6.0-windows\Screenshot App_MarkupCompile.lref
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\obj\Debug\net6.0-windows\Screenshot App.g.resources
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\obj\Debug\net6.0-windows\Screenshot App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\obj\Debug\net6.0-windows\Screenshot App.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\obj\Debug\net6.0-windows\Screenshot App.AssemblyInfo.cs
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\obj\Debug\net6.0-windows\Screenshot App.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\obj\Debug\net6.0-windows\Screenshot App.csproj.CopyComplete
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\obj\Debug\net6.0-windows\Screenshot App.dll
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\obj\Debug\net6.0-windows\refint\Screenshot App.dll
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\obj\Debug\net6.0-windows\Screenshot App.pdb
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\obj\Debug\net6.0-windows\Screenshot App.genruntimeconfig.cache
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\obj\Debug\net6.0-windows\ref\Screenshot App.dll
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\source\repos\ConsoleApplication45\Screenshot App\Screenshot App\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll

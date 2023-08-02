@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RpTiZkbFjNW11XdgV1/LFK4qQvacLj1yrzh84E3YxI8oqIIjC2A4W1T+FymKgd9WVKalTH6YeZyTrkQPrQ7evg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\ConsoleApplication45\\Screenshot App\\ScreenshotSender\\ScreenshotSender.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
